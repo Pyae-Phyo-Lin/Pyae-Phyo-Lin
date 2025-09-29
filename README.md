@@ -11,7 +11,9 @@
 - 🐍 Python, Pandas, Data Analysis
 <!-- - 🛠 Kotlin, Kotlin Multiplatform (KMP)-->
 - 🧩 Odoo ERP (Basic Level – Familiar with system setup & core modules) <br>
-  _Currently exploring more about Odoo technical aspects_
+  _Completed Odoo Development Basic course at **Technortal**._ <br>
+  _Continuously self-study Odoo in my spare time._
+
  
 <br><br>
 
